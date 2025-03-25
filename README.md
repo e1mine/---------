@@ -1,4 +1,4 @@
-# Windows IP Configuration
+#YOU HAVE BEEN HACKED!
 
    
    Primary Dns Suffix  . . . . . . . : adunyasi.local
